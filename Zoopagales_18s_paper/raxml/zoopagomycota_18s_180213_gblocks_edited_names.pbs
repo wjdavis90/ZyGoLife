@@ -1,0 +1,13 @@
+#PBS -N Zoopago_18s
+#PBS -V
+#PBS -A tyjames_fluxod
+#PBS -l qos=flux
+#PBS -q fluxod
+#PBS -l nodes=12:ppn=5,pmem=1gb,walltime=72:00:00
+#PBS -M daviswj@umich.edu
+#PBS -m abe
+#PBS -j oe
+
+#Your Code Goes Below:
+cd /home/daviswj/Sequences/Zoopagomycota/zoophagus_pec_paper
+mpirun -np 60 raxmlHPC-MPI -s zoophagus_pec_paper_mafft_algn_gblocks_names_edited_180215.fasta -n zoophagus_pec_paper_mafft_algn_gblocks_edited_names_180215.nex -f a -m GTRGAMMA -x 1234 -p 1234 -# 1000
