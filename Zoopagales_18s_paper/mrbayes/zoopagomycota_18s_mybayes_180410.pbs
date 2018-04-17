@@ -1,0 +1,13 @@
+#PBS -N Zoopago_18s_mybayes
+#PBS -V
+#PBS -A tyjames_fluxod
+#PBS -l qos=flux
+#PBS -q fluxod
+#PBS -l nodes=12:ppn=5,pmem=1gb,walltime=72:00:00
+#PBS -M daviswj@umich.edu
+#PBS -m abe
+#PBS -j oe
+
+#Your Code Goes Below:
+cd /home/daviswj/Sequences/Zoopagomycota/zoophagus_pec_paper/mrbayes
+mb zoophagus_pec_paper_mafft_algn_gblocks_180410v2.nex
