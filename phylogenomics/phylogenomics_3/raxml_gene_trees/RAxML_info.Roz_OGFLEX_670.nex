@@ -1,0 +1,1646 @@
+
+
+This is RAxML version 8.2.8 released by Alexandros Stamatakis on March 23 2016.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 451 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 3.20%
+
+RAxML rapid bootstrapping and subsequent ML search
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+
+Executing 100 rapid bootstrap inferences and thereafter a thorough ML search 
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heteorgeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 451
+Name: No Name Provided
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+
+RAxML was called as follows:
+
+raxmlHPC-MPI -f a -s Roz_OGFLEX_670.msa.trim -n Roz_OGFLEX_670.nex -m PROTGAMMAAUTO -x 25678 -N 100 -p 8762 
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13629.955824 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13657.508006 with empirical base frequencies
+Automatic protein model assignment algorithm using ML criterion:
+
+
+
+	Partition: 0 best-scoring AA model: LG likelihood -13609.561234 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13610.602648 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13647.043051 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13642.303042 with empirical base frequencies
+	Partition: 0 best-scoring AA model: LG likelihood -13648.888629 with empirical base frequencies
+
+
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13710.788108 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13650.739580 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13648.161614 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+Automatic protein model assignment algorithm using ML criterion:
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13631.543172 with empirical base frequencies
+	Partition: 0 best-scoring AA model: LG likelihood -13628.899600 with empirical base frequencies
+
+
+	Partition: 0 best-scoring AA model: LG likelihood -13635.428062 with empirical base frequencies
+
+
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13646.007732 with empirical base frequencies
+	Partition: 0 best-scoring AA model: LG likelihood -13654.730334 with empirical base frequencies
+
+
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13627.722219 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13627.352704 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13628.212845 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13659.914627 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13644.636030 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13545.530786 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13565.933469 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13527.087290 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13564.875102 with empirical base frequencies
+
+
+
+Time for BS model parameter optimization on Process 13: 156.627217 seconds
+Automatic protein model assignment algorithm using ML criterion:
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13573.465490 with empirical base frequencies
+	Partition: 0 best-scoring AA model: LG likelihood -13560.920857 with empirical base frequencies
+
+
+
+
+
+Time for BS model parameter optimization on Process 1: 157.145323 seconds
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13562.366451 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+
+Time for BS model parameter optimization on Process 9: 158.333842 seconds
+	Partition: 0 best-scoring AA model: LG likelihood -13563.370676 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13546.835570 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13525.146076 with empirical base frequencies
+Automatic protein model assignment algorithm using ML criterion:
+
+Automatic protein model assignment algorithm using ML criterion:
+
+
+
+	Partition: 0 best-scoring AA model: LG likelihood -13627.816332 with empirical base frequencies
+	Partition: 0 best-scoring AA model: LG likelihood -13569.216790 with empirical base frequencies
+
+
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13554.143205 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13545.889418 with empirical base frequencies
+
+
+
+Time for BS model parameter optimization on Process 8: 160.343699 seconds
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13544.433660 with empirical base frequencies
+Automatic protein model assignment algorithm using ML criterion:
+
+
+
+	Partition: 0 best-scoring AA model: LG likelihood -13565.610513 with empirical base frequencies
+
+
+
+Time for BS model parameter optimization on Process 14: 161.586287 seconds
+
+Time for BS model parameter optimization on Process 18: 162.162140 seconds
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13541.718571 with empirical base frequencies
+
+
+
+Time for BS model parameter optimization on Process 19: 162.665438 seconds
+
+Time for BS model parameter optimization on Process 7: 162.883626 seconds
+
+Time for BS model parameter optimization on Process 12: 163.142063 seconds
+
+Time for BS model parameter optimization on Process 16: 164.236042 seconds
+
+Time for BS model parameter optimization on Process 11: 164.464544 seconds
+
+Time for BS model parameter optimization on Process 10: 164.825241 seconds
+
+Time for BS model parameter optimization on Process 2: 164.740865 seconds
+Automatic protein model assignment algorithm using ML criterion:
+
+
+Time for BS model parameter optimization on Process 15: 165.159211 seconds
+	Partition: 0 best-scoring AA model: LG likelihood -13569.837668 with empirical base frequencies
+
+
+
+Time for BS model parameter optimization on Process 0: 165.884848 seconds
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13545.511448 with empirical base frequencies
+
+
+
+Time for BS model parameter optimization on Process 6: 166.465726 seconds
+
+Time for BS model parameter optimization on Process 17: 166.661687 seconds
+
+Time for BS model parameter optimization on Process 3: 168.814405 seconds
+
+Time for BS model parameter optimization on Process 4: 171.169405 seconds
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13561.578165 with empirical base frequencies
+
+
+
+Time for BS model parameter optimization on Process 5: 180.275507 seconds
+Bootstrap[5]: Time 189.056415 seconds, bootstrap likelihood -13449.376505, best rearrangement setting 14
+Bootstrap[45]: Time 189.171839 seconds, bootstrap likelihood -12998.705844, best rearrangement setting 14
+Bootstrap[65]: Time 190.690978 seconds, bootstrap likelihood -13445.592582, best rearrangement setting 8
+Bootstrap[35]: Time 191.084073 seconds, bootstrap likelihood -13172.804268, best rearrangement setting 5
+Bootstrap[40]: Time 191.342054 seconds, bootstrap likelihood -13475.014371, best rearrangement setting 15
+Bootstrap[95]: Time 192.966799 seconds, bootstrap likelihood -14291.944020, best rearrangement setting 11
+Bootstrap[70]: Time 193.845710 seconds, bootstrap likelihood -12857.801459, best rearrangement setting 7
+Bootstrap[80]: Time 195.040050 seconds, bootstrap likelihood -14173.170486, best rearrangement setting 15
+Bootstrap[60]: Time 195.036451 seconds, bootstrap likelihood -13942.802225, best rearrangement setting 10
+Bootstrap[90]: Time 195.295958 seconds, bootstrap likelihood -13346.997855, best rearrangement setting 12
+Bootstrap[30]: Time 196.181089 seconds, bootstrap likelihood -13073.640854, best rearrangement setting 7
+Bootstrap[50]: Time 196.401320 seconds, bootstrap likelihood -13641.744637, best rearrangement setting 12
+Bootstrap[55]: Time 197.603766 seconds, bootstrap likelihood -13834.470708, best rearrangement setting 11
+Bootstrap[10]: Time 197.537063 seconds, bootstrap likelihood -13887.951708, best rearrangement setting 12
+Bootstrap[75]: Time 197.782668 seconds, bootstrap likelihood -13742.277982, best rearrangement setting 5
+Bootstrap[85]: Time 198.573821 seconds, bootstrap likelihood -13471.716813, best rearrangement setting 14
+Bootstrap[15]: Time 199.877432 seconds, bootstrap likelihood -12501.960504, best rearrangement setting 11
+Bootstrap[0]: Time 200.091800 seconds, bootstrap likelihood -13153.458115, best rearrangement setting 15
+Bootstrap[20]: Time 202.903540 seconds, bootstrap likelihood -12307.223756, best rearrangement setting 9
+Bootstrap[25]: Time 211.759442 seconds, bootstrap likelihood -14117.673622, best rearrangement setting 8
+Bootstrap[46]: Time 26.884750 seconds, bootstrap likelihood -13419.063258, best rearrangement setting 9
+Bootstrap[66]: Time 27.806152 seconds, bootstrap likelihood -13083.906802, best rearrangement setting 11
+Bootstrap[41]: Time 28.586677 seconds, bootstrap likelihood -12611.197831, best rearrangement setting 9
+Bootstrap[6]: Time 30.865664 seconds, bootstrap likelihood -13108.435949, best rearrangement setting 6
+Bootstrap[96]: Time 29.305534 seconds, bootstrap likelihood -13845.287927, best rearrangement setting 13
+Bootstrap[36]: Time 31.476454 seconds, bootstrap likelihood -13384.110560, best rearrangement setting 8
+Bootstrap[91]: Time 27.850023 seconds, bootstrap likelihood -13500.814955, best rearrangement setting 13
+Bootstrap[81]: Time 29.025772 seconds, bootstrap likelihood -13572.877392, best rearrangement setting 12
+Bootstrap[51]: Time 27.846948 seconds, bootstrap likelihood -14163.472828, best rearrangement setting 10
+Bootstrap[71]: Time 31.360993 seconds, bootstrap likelihood -13774.038699, best rearrangement setting 11
+Bootstrap[86]: Time 27.027257 seconds, bootstrap likelihood -13291.787330, best rearrangement setting 13
+Bootstrap[56]: Time 28.496516 seconds, bootstrap likelihood -14231.996595, best rearrangement setting 10
+Bootstrap[61]: Time 32.269641 seconds, bootstrap likelihood -13217.603716, best rearrangement setting 10
+Bootstrap[31]: Time 31.486506 seconds, bootstrap likelihood -12604.562753, best rearrangement setting 8
+Bootstrap[11]: Time 30.637557 seconds, bootstrap likelihood -13253.056753, best rearrangement setting 6
+Bootstrap[21]: Time 28.193313 seconds, bootstrap likelihood -14093.441094, best rearrangement setting 7
+Bootstrap[1]: Time 31.438537 seconds, bootstrap likelihood -12564.559062, best rearrangement setting 6
+Bootstrap[16]: Time 32.939017 seconds, bootstrap likelihood -14114.260500, best rearrangement setting 7
+Bootstrap[76]: Time 35.320525 seconds, bootstrap likelihood -12927.265072, best rearrangement setting 12
+Bootstrap[26]: Time 32.571932 seconds, bootstrap likelihood -14281.662077, best rearrangement setting 8
+Bootstrap[47]: Time 29.161517 seconds, bootstrap likelihood -13407.676361, best rearrangement setting 12
+Bootstrap[67]: Time 29.207491 seconds, bootstrap likelihood -13322.800313, best rearrangement setting 5
+Bootstrap[42]: Time 28.867045 seconds, bootstrap likelihood -12781.972935, best rearrangement setting 11
+Bootstrap[97]: Time 28.704345 seconds, bootstrap likelihood -13022.447226, best rearrangement setting 10
+Bootstrap[7]: Time 31.460621 seconds, bootstrap likelihood -13775.637573, best rearrangement setting 5
+Bootstrap[92]: Time 29.736558 seconds, bootstrap likelihood -13131.665942, best rearrangement setting 9
+Bootstrap[52]: Time 29.172890 seconds, bootstrap likelihood -12973.236197, best rearrangement setting 13
+Bootstrap[37]: Time 32.079495 seconds, bootstrap likelihood -12840.146864, best rearrangement setting 10
+Bootstrap[87]: Time 29.546589 seconds, bootstrap likelihood -13327.914273, best rearrangement setting 8
+Bootstrap[57]: Time 29.557423 seconds, bootstrap likelihood -12922.080070, best rearrangement setting 14
+Bootstrap[82]: Time 32.496510 seconds, bootstrap likelihood -13367.703388, best rearrangement setting 7
+Bootstrap[72]: Time 31.639572 seconds, bootstrap likelihood -13344.556473, best rearrangement setting 6
+Bootstrap[62]: Time 29.661598 seconds, bootstrap likelihood -12340.131493, best rearrangement setting 15
+Bootstrap[12]: Time 29.640440 seconds, bootstrap likelihood -14882.491456, best rearrangement setting 6
+Bootstrap[17]: Time 25.655113 seconds, bootstrap likelihood -13469.062631, best rearrangement setting 7
+Bootstrap[32]: Time 31.673911 seconds, bootstrap likelihood -13589.984049, best rearrangement setting 9
+Bootstrap[2]: Time 30.048519 seconds, bootstrap likelihood -13472.484725, best rearrangement setting 15
+Bootstrap[22]: Time 33.263124 seconds, bootstrap likelihood -13296.030143, best rearrangement setting 7
+Bootstrap[77]: Time 32.738229 seconds, bootstrap likelihood -13664.226752, best rearrangement setting 6
+Bootstrap[48]: Time 26.423475 seconds, bootstrap likelihood -12397.378114, best rearrangement setting 15
+Bootstrap[27]: Time 31.701537 seconds, bootstrap likelihood -12604.746672, best rearrangement setting 8
+Bootstrap[8]: Time 26.751596 seconds, bootstrap likelihood -13648.358069, best rearrangement setting 12
+Bootstrap[43]: Time 29.899234 seconds, bootstrap likelihood -14461.335367, best rearrangement setting 13
+Bootstrap[68]: Time 31.084537 seconds, bootstrap likelihood -13370.018525, best rearrangement setting 11
+Bootstrap[98]: Time 29.115347 seconds, bootstrap likelihood -12594.825937, best rearrangement setting 11
+Bootstrap[93]: Time 27.132174 seconds, bootstrap likelihood -12909.932345, best rearrangement setting 9
+Bootstrap[88]: Time 27.554995 seconds, bootstrap likelihood -12897.081015, best rearrangement setting 8
+Bootstrap[53]: Time 30.266104 seconds, bootstrap likelihood -12301.320804, best rearrangement setting 6
+Bootstrap[83]: Time 27.699464 seconds, bootstrap likelihood -12848.895454, best rearrangement setting 6
+Bootstrap[38]: Time 31.447472 seconds, bootstrap likelihood -12812.443334, best rearrangement setting 12
+Bootstrap[63]: Time 29.710560 seconds, bootstrap likelihood -14340.254049, best rearrangement setting 10
+Bootstrap[73]: Time 30.242083 seconds, bootstrap likelihood -13302.334401, best rearrangement setting 13
+Bootstrap[58]: Time 31.912553 seconds, bootstrap likelihood -14792.660203, best rearrangement setting 8
+Bootstrap[13]: Time 30.200338 seconds, bootstrap likelihood -12537.273362, best rearrangement setting 14
+Bootstrap[18]: Time 31.571592 seconds, bootstrap likelihood -13655.778290, best rearrangement setting 15
+Bootstrap[3]: Time 28.903704 seconds, bootstrap likelihood -14319.617725, best rearrangement setting 10
+Bootstrap[33]: Time 33.003780 seconds, bootstrap likelihood -12604.215333, best rearrangement setting 10
+Bootstrap[23]: Time 27.753879 seconds, bootstrap likelihood -12312.465306, best rearrangement setting 6
+Bootstrap[78]: Time 31.188303 seconds, bootstrap likelihood -13700.703891, best rearrangement setting 15
+Bootstrap[49]: Time 30.245078 seconds, bootstrap likelihood -13822.496655, best rearrangement setting 10
+Bootstrap[44]: Time 26.215731 seconds, bootstrap likelihood -13104.151342, best rearrangement setting 14
+Bootstrap[9]: Time 27.973916 seconds, bootstrap likelihood -12976.482375, best rearrangement setting 7
+Bootstrap[69]: Time 26.776283 seconds, bootstrap likelihood -13891.732972, best rearrangement setting 6
+Bootstrap[28]: Time 30.561045 seconds, bootstrap likelihood -12989.764737, best rearrangement setting 8
+Bootstrap[99]: Time 27.721936 seconds, bootstrap likelihood -12895.933988, best rearrangement setting 6
+Bootstrap[89]: Time 27.004950 seconds, bootstrap likelihood -12304.599882, best rearrangement setting 13
+Bootstrap[94]: Time 30.823753 seconds, bootstrap likelihood -13447.172357, best rearrangement setting 9
+Bootstrap[84]: Time 27.460849 seconds, bootstrap likelihood -13455.802661, best rearrangement setting 6
+Bootstrap[39]: Time 27.257015 seconds, bootstrap likelihood -13920.574310, best rearrangement setting 6
+Bootstrap[54]: Time 30.314732 seconds, bootstrap likelihood -13258.976273, best rearrangement setting 6
+Bootstrap[64]: Time 27.965562 seconds, bootstrap likelihood -13500.545602, best rearrangement setting 10
+Bootstrap[74]: Time 28.233571 seconds, bootstrap likelihood -12139.388484, best rearrangement setting 13
+Bootstrap[59]: Time 27.924617 seconds, bootstrap likelihood -13304.484495, best rearrangement setting 13
+Bootstrap[34]: Time 25.306084 seconds, bootstrap likelihood -13315.272884, best rearrangement setting 10
+Bootstrap[14]: Time 29.799290 seconds, bootstrap likelihood -13123.881415, best rearrangement setting 14
+Bootstrap[19]: Time 31.129562 seconds, bootstrap likelihood -13861.485880, best rearrangement setting 10
+Bootstrap[24]: Time 28.906516 seconds, bootstrap likelihood -13387.054336, best rearrangement setting 6
+Bootstrap[4]: Time 33.341731 seconds, bootstrap likelihood -13772.664983, best rearrangement setting 10
+Bootstrap[79]: Time 32.076285 seconds, bootstrap likelihood -12724.545658, best rearrangement setting 10
+Bootstrap[29]: Time 29.350446 seconds, bootstrap likelihood -13382.088819, best rearrangement setting 14
+
+
+Overall Time for 100 Rapid Bootstraps 340.020951 seconds
+Average Time per Rapid Bootstrap 3.400210 seconds
+
+Starting ML Search ...
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13651.980784 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13633.609815 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13622.766136 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13617.639680 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13641.109957 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13622.603353 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13627.117549 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13642.274024 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13625.240431 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13663.476567 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13623.786206 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13622.731791 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13621.130381 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13637.984614 with empirical base frequencies
+Automatic protein model assignment algorithm using ML criterion:
+
+
+
+	Partition: 0 best-scoring AA model: LG likelihood -13646.314773 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13598.593473 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13637.354422 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13638.480527 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13648.942289 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13613.207621 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13529.923182 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13534.172631 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13560.274036 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+Automatic protein model assignment algorithm using ML criterion:
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13539.785116 with empirical base frequencies
+	Partition: 0 best-scoring AA model: LG likelihood -13539.179134 with empirical base frequencies
+	Partition: 0 best-scoring AA model: LG likelihood -13536.047142 with empirical base frequencies
+
+
+
+
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13549.663311 with empirical base frequencies
+	Partition: 0 best-scoring AA model: LG likelihood -13549.030697 with empirical base frequencies
+
+
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13537.622800 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13549.949481 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13531.120746 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13531.846351 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13577.136903 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13553.798492 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13560.225400 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13514.637436 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13529.599663 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13551.284622 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13561.738743 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13523.950752 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13529.876846 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13548.886541 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13534.170364 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13536.047128 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13538.960280 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13560.138712 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13549.806797 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13539.573445 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13549.646013 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13537.618009 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13531.107820 with empirical base frequencies
+	Partition: 0 best-scoring AA model: LG likelihood -13553.743998 with empirical base frequencies
+
+
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13531.805163 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13529.525488 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13577.136026 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13514.591211 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13560.223539 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13551.284375 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13561.601690 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13523.731651 with empirical base frequencies
+
+
+Fast ML search on Process 5: Time 410.289849 seconds
+
+Fast ML search on Process 19: Time 444.180057 seconds
+
+Fast ML search on Process 12: Time 447.014417 seconds
+
+Fast ML search on Process 13: Time 447.969128 seconds
+
+Fast ML search on Process 3: Time 457.760033 seconds
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13574.662221 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13569.850983 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13573.090094 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13578.199457 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13580.282922 with empirical base frequencies
+
+
+Fast ML search on Process 1: Time 549.946561 seconds
+
+Fast ML optimization finished
+
+Fast ML search on Process 0: Time 558.694399 seconds
+
+Fast ML search on Process 15: Time 560.518991 seconds
+
+Fast ML search on Process 14: Time 565.991017 seconds
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13489.497428 with empirical base frequencies
+
+
+Fast ML search on Process 9: Time 577.524121 seconds
+
+Fast ML search on Process 4: Time 585.087626 seconds
+
+Fast ML search on Process 10: Time 587.480043 seconds
+
+Fast ML search on Process 2: Time 587.611999 seconds
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13486.352483 with empirical base frequencies
+
+
+Fast ML search on Process 17: Time 602.777087 seconds
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13481.216489 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13488.925581 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13568.067105 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13491.451061 with empirical base frequencies
+
+
+Fast ML search on Process 8: Time 627.658128 seconds
+
+Automatic protein model assignment algorithm using ML criterion:
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13576.526292 with empirical base frequencies
+	Partition: 0 best-scoring AA model: LG likelihood -13579.225041 with empirical base frequencies
+
+
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13569.014722 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13570.547482 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13569.397712 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13571.937072 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13570.729103 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13573.176531 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13489.495979 with empirical base frequencies
+
+
+Fast ML search on Process 16: Time 673.656076 seconds
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13486.212718 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13573.176531 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13488.805387 with empirical base frequencies
+	Partition: 0 best-scoring AA model: LG likelihood -13481.175355 with empirical base frequencies
+
+
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13481.073358 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13488.463424 with empirical base frequencies
+
+
+Fast ML search on Process 18: Time 716.304929 seconds
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13489.033128 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13491.370354 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13484.487772 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13483.819186 with empirical base frequencies
+
+
+Fast ML search on Process 6: Time 738.959252 seconds
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13572.661905 with empirical base frequencies
+
+
+Fast ML search on Process 11: Time 745.765126 seconds
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13485.514249 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13481.334236 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13483.122478 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13481.510537 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13570.547482 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13481.510534 with empirical base frequencies
+
+
+Slow ML Search 25 Likelihood: -13489.495633
+Slow ML search on Process 5: Time 389.245614 seconds
+Automatic protein model assignment algorithm using ML criterion:
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13488.154988 with empirical base frequencies
+	Partition: 0 best-scoring AA model: LG likelihood -13481.029964 with empirical base frequencies
+
+
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13570.729103 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13572.364097 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13488.878844 with empirical base frequencies
+
+
+Slow ML Search 95 Likelihood: -13486.211743
+Slow ML search on Process 19: Time 372.594506 seconds
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13484.482962 with empirical base frequencies
+
+
+Slow ML Search 65 Likelihood: -13481.175135
+Slow ML search on Process 13: Time 379.104973 seconds
+Slow ML Search 60 Likelihood: -13488.804798
+Slow ML search on Process 12: Time 381.192393 seconds
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13482.494515 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13483.803559 with empirical base frequencies
+
+
+Fast ML search on Process 7: Time 842.518466 seconds
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13481.245230 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13485.499656 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13483.116797 with empirical base frequencies
+
+
+Slow ML Search 15 Likelihood: -13491.369986
+Slow ML search on Process 3: Time 394.534949 seconds
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13481.394167 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13483.819186 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13481.394161 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13481.334313 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13484.088525 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13572.661905 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13482.394604 with empirical base frequencies
+
+
+Slow ML Search 0 Likelihood: -13488.152635
+Slow ML optimization finished
+
+Slow ML search on Process 0: Time 364.251757 seconds
+Slow ML Search 5 Likelihood: -13481.029835
+Slow ML search on Process 1: Time 376.139537 seconds
+Slow ML Search 70 Likelihood: -13484.482790
+Slow ML search on Process 14: Time 381.591999 seconds
+Slow ML Search 75 Likelihood: -13488.878212
+Slow ML search on Process 15: Time 389.868516 seconds
+Slow ML Search 45 Likelihood: -13483.803507
+Slow ML search on Process 9: Time 379.593509 seconds
+Slow ML Search 50 Likelihood: -13481.244847
+Slow ML search on Process 10: Time 375.875695 seconds
+Slow ML Search 10 Likelihood: -13485.499640
+Slow ML search on Process 2: Time 383.027968 seconds
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13483.803551 with empirical base frequencies
+
+
+Slow ML Search 20 Likelihood: -13483.116737
+Slow ML search on Process 4: Time 389.100225 seconds
+Slow ML Search 85 Likelihood: -13481.393732
+Slow ML search on Process 17: Time 386.624119 seconds
+Automatic protein model assignment algorithm using ML criterion:
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13481.245352 with empirical base frequencies
+	Partition: 0 best-scoring AA model: LG likelihood -13483.980120 with empirical base frequencies
+
+
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13574.662221 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13482.494515 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13573.090094 with empirical base frequencies
+
+
+Slow ML Search 40 Likelihood: -13481.393731
+Slow ML search on Process 8: Time 383.709752 seconds
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13569.850983 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13578.199457 with empirical base frequencies
+
+
+Slow ML Search 80 Likelihood: -13482.394239
+Slow ML search on Process 16: Time 369.339067 seconds
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13580.282922 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13486.352483 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13489.497428 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13482.394601 with empirical base frequencies
+
+
+Slow ML Search 90 Likelihood: -13483.803507
+Slow ML search on Process 18: Time 379.345698 seconds
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13568.067105 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13481.216489 with empirical base frequencies
+
+
+Slow ML Search 30 Likelihood: -13481.244848
+Slow ML search on Process 6: Time 376.864161 seconds
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13488.925581 with empirical base frequencies
+
+
+Slow ML Search 55 Likelihood: -13483.979166
+Slow ML search on Process 11: Time 374.950549 seconds
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13576.526292 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13579.225041 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13491.451061 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13569.014722 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13570.547482 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13571.937072 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13570.729103 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13573.176531 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13486.212718 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13569.397712 with empirical base frequencies
+
+
+Thorough ML search on Process 19: Time 365.180266 seconds
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13489.495979 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13481.073358 with empirical base frequencies
+
+
+Thorough ML search on Process 5: Time 397.976019 seconds
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13573.176531 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13488.463424 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13488.805387 with empirical base frequencies
+
+
+Slow ML Search 35 Likelihood: -13482.394239
+Automatic protein model assignment algorithm using ML criterion:
+
+Slow ML search on Process 7: Time 370.175859 seconds
+	Partition: 0 best-scoring AA model: LG likelihood -13481.175355 with empirical base frequencies
+
+
+Thorough ML search on Process 12: Time 387.474276 seconds
+Thorough ML search on Process 13: Time 390.578847 seconds
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13489.033128 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13572.661905 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13484.487772 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13491.370354 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13483.819186 with empirical base frequencies
+
+
+Thorough ML search on Process 3: Time 394.743532 seconds
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13485.514249 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13481.334236 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13481.510537 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13483.122478 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13481.029964 with empirical base frequencies
+
+
+Thorough ML search on Process 1: Time 366.176577 seconds
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13570.547482 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13481.510534 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13488.154988 with empirical base frequencies
+
+
+Thorough ML search on Process 0: Time 376.897875 seconds
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13572.364097 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13570.729103 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13488.878844 with empirical base frequencies
+
+
+Thorough ML search on Process 15: Time 378.130970 seconds
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13482.494515 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13484.482962 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13483.803559 with empirical base frequencies
+
+
+Thorough ML search on Process 14: Time 395.375375 seconds
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13485.499656 with empirical base frequencies
+
+
+Thorough ML search on Process 2: Time 376.436722 seconds
+Thorough ML search on Process 9: Time 389.977775 seconds
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13481.245230 with empirical base frequencies
+
+
+Thorough ML search on Process 10: Time 390.412167 seconds
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13481.394167 with empirical base frequencies
+
+
+Thorough ML search on Process 17: Time 381.521342 seconds
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13483.116797 with empirical base frequencies
+
+
+Thorough ML search on Process 4: Time 404.966820 seconds
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13483.819186 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13481.394161 with empirical base frequencies
+
+
+Thorough ML search on Process 8: Time 379.036558 seconds
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13484.088525 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13481.334313 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13572.661905 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13482.394604 with empirical base frequencies
+
+
+Thorough ML search on Process 16: Time 384.907146 seconds
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13483.803551 with empirical base frequencies
+
+
+Thorough ML search on Process 18: Time 389.565521 seconds
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13483.980120 with empirical base frequencies
+
+
+Thorough ML search on Process 11: Time 368.720353 seconds
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13481.245352 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13482.494515 with empirical base frequencies
+
+
+Thorough ML search on Process 6: Time 390.209872 seconds
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -13482.394601 with empirical base frequencies
+
+
+Thorough ML search on Process 7: Time 384.681497 seconds
+
+Final ML Optimization Likelihood: -13481.029835
+
+Model Information:
+
+Model Parameters of Partition 0, Name: No Name Provided, Type of Data: AA
+alpha: 0.501012
+Tree-Length: 10.589569
+rate A <-> R: 0.399182
+rate A <-> N: 0.259945
+rate A <-> D: 0.371058
+rate A <-> C: 2.337364
+rate A <-> Q: 0.910775
+rate A <-> E: 0.975241
+rate A <-> G: 1.940106
+rate A <-> H: 0.336984
+rate A <-> I: 0.140697
+rate A <-> L: 0.371240
+rate A <-> K: 0.503815
+rate A <-> M: 1.055520
+rate A <-> F: 0.238237
+rate A <-> P: 1.105868
+rate A <-> S: 4.439041
+rate A <-> T: 2.009090
+rate A <-> W: 0.169702
+rate A <-> Y: 0.205613
+rate A <-> V: 2.392567
+rate R <-> N: 0.706048
+rate R <-> D: 0.116398
+rate R <-> C: 0.501968
+rate R <-> Q: 2.636754
+rate R <-> E: 0.341785
+rate R <-> G: 0.366408
+rate R <-> H: 2.278690
+rate R <-> I: 0.119250
+rate R <-> L: 0.283449
+rate R <-> K: 5.940467
+rate R <-> M: 0.454623
+rate R <-> F: 0.049508
+rate R <-> P: 0.312264
+rate R <-> S: 0.805843
+rate R <-> T: 0.543695
+rate R <-> W: 0.557424
+rate R <-> Y: 0.295274
+rate R <-> V: 0.160471
+rate N <-> D: 4.766737
+rate N <-> C: 0.496537
+rate N <-> Q: 1.592389
+rate N <-> E: 0.508692
+rate N <-> G: 1.350015
+rate N <-> H: 4.234381
+rate N <-> I: 0.179830
+rate N <-> L: 0.064256
+rate N <-> K: 2.014327
+rate N <-> M: 0.348390
+rate N <-> F: 0.084068
+rate N <-> P: 0.151925
+rate N <-> S: 3.764032
+rate N <-> T: 1.878729
+rate N <-> W: 0.042610
+rate N <-> Y: 0.574720
+rate N <-> V: 0.078587
+rate D <-> C: 0.058743
+rate D <-> Q: 0.491483
+rate D <-> E: 4.924234
+rate D <-> G: 0.793424
+rate D <-> H: 0.870603
+rate D <-> I: 0.010038
+rate D <-> L: 0.014157
+rate D <-> K: 0.265711
+rate D <-> M: 0.023991
+rate D <-> F: 0.016354
+rate D <-> P: 0.370412
+rate D <-> S: 1.164675
+rate D <-> T: 0.399902
+rate D <-> W: 0.028068
+rate D <-> Y: 0.126872
+rate D <-> V: 0.035653
+rate C <-> Q: 0.079639
+rate C <-> E: 0.003286
+rate C <-> G: 0.534566
+rate C <-> H: 0.601499
+rate C <-> I: 0.301083
+rate C <-> L: 0.557800
+rate C <-> K: 0.012457
+rate C <-> M: 0.839207
+rate C <-> F: 1.037881
+rate C <-> P: 0.070787
+rate C <-> S: 2.614753
+rate C <-> T: 1.073780
+rate C <-> W: 0.629281
+rate C <-> Y: 1.094488
+rate C <-> V: 1.839864
+rate Q <-> E: 3.876936
+rate Q <-> G: 0.251626
+rate Q <-> H: 4.520102
+rate Q <-> I: 0.068413
+rate Q <-> L: 0.546954
+rate Q <-> K: 3.037150
+rate Q <-> M: 1.570619
+rate Q <-> F: 0.033669
+rate Q <-> P: 0.586241
+rate Q <-> S: 1.149231
+rate Q <-> T: 1.014297
+rate Q <-> W: 0.221802
+rate Q <-> Y: 0.241650
+rate Q <-> V: 0.197511
+rate E <-> G: 0.327583
+rate E <-> H: 0.398044
+rate E <-> I: 0.041567
+rate E <-> L: 0.065426
+rate E <-> K: 1.697022
+rate E <-> M: 0.163145
+rate E <-> F: 0.017664
+rate E <-> P: 0.393844
+rate E <-> S: 0.574671
+rate E <-> T: 0.567695
+rate E <-> W: 0.073107
+rate E <-> Y: 0.112720
+rate E <-> V: 0.230098
+rate G <-> H: 0.292498
+rate G <-> I: 0.008174
+rate G <-> L: 0.041563
+rate G <-> K: 0.278555
+rate G <-> M: 0.131033
+rate G <-> F: 0.084125
+rate G <-> P: 0.184955
+rate G <-> S: 1.633930
+rate G <-> T: 0.121922
+rate G <-> W: 0.252125
+rate G <-> Y: 0.051346
+rate G <-> V: 0.072026
+rate H <-> I: 0.102245
+rate H <-> L: 0.343988
+rate H <-> K: 0.654763
+rate H <-> M: 0.415502
+rate H <-> F: 0.640560
+rate H <-> P: 0.477834
+rate H <-> S: 0.929667
+rate H <-> T: 0.548649
+rate H <-> W: 0.560661
+rate H <-> Y: 4.983361
+rate H <-> V: 0.111759
+rate I <-> L: 3.892408
+rate I <-> K: 0.149373
+rate I <-> M: 4.013113
+rate I <-> F: 1.044902
+rate I <-> P: 0.073509
+rate I <-> S: 0.060198
+rate I <-> T: 0.970728
+rate I <-> W: 0.104854
+rate I <-> Y: 0.218350
+rate I <-> V: 10.000000
+rate L <-> K: 0.129119
+rate L <-> M: 5.927594
+rate L <-> F: 2.434657
+rate L <-> P: 0.233879
+rate L <-> S: 0.171176
+rate L <-> T: 0.284471
+rate L <-> W: 0.581863
+rate L <-> Y: 0.281383
+rate L <-> V: 1.598956
+rate K <-> M: 0.616581
+rate K <-> F: 0.022460
+rate K <-> P: 0.366530
+rate K <-> S: 0.703048
+rate K <-> T: 1.067567
+rate K <-> W: 0.046864
+rate K <-> Y: 0.123890
+rate K <-> V: 0.173913
+rate M <-> F: 1.689205
+rate M <-> P: 0.093763
+rate M <-> S: 0.325811
+rate M <-> T: 1.897216
+rate M <-> W: 0.653740
+rate M <-> Y: 0.451968
+rate M <-> V: 1.782983
+rate F <-> P: 0.088706
+rate F <-> S: 0.339765
+rate F <-> T: 0.154944
+rate F <-> W: 2.307349
+rate F <-> Y: 7.328222
+rate F <-> V: 0.614777
+rate P <-> S: 1.256567
+rate P <-> T: 0.536635
+rate P <-> W: 0.089332
+rate P <-> Y: 0.084151
+rate P <-> V: 0.278428
+rate S <-> T: 6.077767
+rate S <-> W: 0.233693
+rate S <-> Y: 0.376132
+rate S <-> V: 0.092373
+rate T <-> W: 0.132241
+rate T <-> Y: 0.230856
+rate T <-> V: 2.054781
+rate W <-> Y: 2.959699
+rate W <-> V: 0.177959
+rate Y <-> V: 0.234116
+
+freq pi(A): 0.115828
+freq pi(R): 0.047324
+freq pi(N): 0.036802
+freq pi(D): 0.068826
+freq pi(C): 0.012038
+freq pi(Q): 0.033127
+freq pi(E): 0.075258
+freq pi(G): 0.070986
+freq pi(H): 0.016724
+freq pi(I): 0.077142
+freq pi(L): 0.103469
+freq pi(K): 0.074385
+freq pi(M): 0.020813
+freq pi(F): 0.026465
+freq pi(P): 0.016586
+freq pi(S): 0.064737
+freq pi(T): 0.050999
+freq pi(W): 0.001976
+freq pi(Y): 0.011624
+freq pi(V): 0.074891
+
+
+ML search took 1606.803387 secs or 0.446334 hours
+
+Combined Bootstrap and ML search took 1946.747668 secs or 0.540763 hours
+
+Drawing Bootstrap Support Values on best-scoring ML tree ...
+
+
+
+Found 1 tree in File /scratch/lsa_flux/daviswj/phylogenomics_3/raxml_gene_trees_180327/RAxML_bestTree.Roz_OGFLEX_670.nex
+
+
+
+Found 1 tree in File /scratch/lsa_flux/daviswj/phylogenomics_3/raxml_gene_trees_180327/RAxML_bestTree.Roz_OGFLEX_670.nex
+
+Program execution info written to /scratch/lsa_flux/daviswj/phylogenomics_3/raxml_gene_trees_180327/RAxML_info.Roz_OGFLEX_670.nex
+All 100 bootstrapped trees written to: /scratch/lsa_flux/daviswj/phylogenomics_3/raxml_gene_trees_180327/RAxML_bootstrap.Roz_OGFLEX_670.nex
+
+Best-scoring ML tree written to: /scratch/lsa_flux/daviswj/phylogenomics_3/raxml_gene_trees_180327/RAxML_bestTree.Roz_OGFLEX_670.nex
+
+Best-scoring ML tree with support values written to: /scratch/lsa_flux/daviswj/phylogenomics_3/raxml_gene_trees_180327/RAxML_bipartitions.Roz_OGFLEX_670.nex
+
+Best-scoring ML tree with support values as branch labels written to: /scratch/lsa_flux/daviswj/phylogenomics_3/raxml_gene_trees_180327/RAxML_bipartitionsBranchLabels.Roz_OGFLEX_670.nex
+
+Overall execution time for full ML analysis: 1947.196654 secs or 0.540888 hours or 0.022537 days
+

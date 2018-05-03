@@ -1,0 +1,6 @@
+ERROR: Sequence Zrad|Roz_OGFLEX_676__scaffold_298_299052_303352_1 consists entirely of undetermined values which will be treated as missing data
+ERROR: Sequence Mono|XP_001749687 consists entirely of undetermined values which will be treated as missing data
+ERROR: Sequence Zin|03052-RA consists entirely of undetermined values which will be treated as missing data
+ERROR: Sequence Zsp|03671-RA consists entirely of undetermined values which will be treated as missing data
+ERROR: Sequence SmitM|OLY78249 consists entirely of undetermined values which will be treated as missing data
+ERROR: Found 5 sequences that consist entirely of undetermined values, exiting...
