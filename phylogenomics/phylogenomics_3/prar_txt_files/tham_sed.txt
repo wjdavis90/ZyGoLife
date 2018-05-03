@@ -1,0 +1,4 @@
+s/Thasp1|gm1.6818_g/Thasp1|e_gw1.769.1.1/g
+s/Thasp1|gm1.3104_g/Thasp1|gw1.183.7.1/g
+s/Thasp1|gm1.6453_g/Thasp1|gw1.197.1.1/g
+
