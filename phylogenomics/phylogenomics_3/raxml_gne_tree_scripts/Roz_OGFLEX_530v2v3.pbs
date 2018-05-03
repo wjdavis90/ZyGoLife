@@ -1,0 +1,14 @@
+ 
+#PBS -N raxml_Roz_OGFLEX_530
+#PBS -V
+#PBS -A tyjames_fluxod
+#PBS -l qos=flux
+#PBS -q fluxod
+#PBS -l nodes=10:ppn=2,pmem=1gb,walltime=15:00:00
+#PBS -M daviswj@umich.edu
+#PBS -m abe
+#PBS -j oe
+
+#Your Code Goes Below:
+cd /scratch/lsa_flux/daviswj/phylogenomics_3/raxml_gene_trees_180327
+mpirun -np 20 raxmlHPC-MPI -f a -s Roz_OGFLEX_530.msa.trim -n Roz_OGFLEX_530.nex -m PROTGAMMAAUTO -x 25678 -N 100 -p 8762
