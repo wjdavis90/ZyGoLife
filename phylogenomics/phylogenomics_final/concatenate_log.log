@@ -1,0 +1,461 @@
+Replacement list is longer than search list at /sw/med/centos7/bioperl/1.6.1/lib/perl5/Bio/Range.pm line 251.
+file is .
+file is ..
+file is Roz_OGFLEX_190.msa.trim
+file is Roz_OGFLEX_224.msa.trim
+file is Roz_OGFLEX_226.msa.trim
+file is Roz_OGFLEX_257.msa.trim
+file is Roz_OGFLEX_261.msa.trim
+file is Roz_OGFLEX_267.msa.trim
+file is Roz_OGFLEX_268.msa.trim
+file is Roz_OGFLEX_269.msa.trim
+file is Roz_OGFLEX_280.msa.trim
+file is Roz_OGFLEX_284.msa.trim
+file is Roz_OGFLEX_292.msa.trim
+file is Roz_OGFLEX_295.msa.trim
+file is Roz_OGFLEX_301.msa.trim
+file is Roz_OGFLEX_305.msa.trim
+file is Roz_OGFLEX_308.msa.trim
+file is Roz_OGFLEX_311.msa.trim
+file is Roz_OGFLEX_322.msa.trim
+file is Roz_OGFLEX_331.msa.trim
+file is Roz_OGFLEX_335.msa.trim
+file is Roz_OGFLEX_357.msa.trim
+file is Roz_OGFLEX_363.msa.trim
+file is Roz_OGFLEX_366.msa.trim
+file is Roz_OGFLEX_376.msa.trim
+file is Roz_OGFLEX_378.msa.trim
+file is Roz_OGFLEX_379.msa.trim
+file is Roz_OGFLEX_380.msa.trim
+file is Roz_OGFLEX_397.msa.trim
+file is Roz_OGFLEX_401.msa.trim
+file is Roz_OGFLEX_405.msa.trim
+file is Roz_OGFLEX_407.msa.trim
+file is Roz_OGFLEX_416.msa.trim
+file is Roz_OGFLEX_425.msa.trim
+file is Roz_OGFLEX_432.msa.trim
+file is Roz_OGFLEX_433.msa.trim
+file is Roz_OGFLEX_437.msa.trim
+file is Roz_OGFLEX_443.msa.trim
+file is Roz_OGFLEX_447.msa.trim
+file is Roz_OGFLEX_458.msa.trim
+file is Roz_OGFLEX_461.msa.trim
+file is Roz_OGFLEX_475.msa.trim
+file is Roz_OGFLEX_481.msa.trim
+file is Roz_OGFLEX_491.msa.trim
+file is Roz_OGFLEX_492.msa.trim
+file is Roz_OGFLEX_496.msa.trim
+file is Roz_OGFLEX_506.msa.trim
+file is Roz_OGFLEX_507.msa.trim
+file is Roz_OGFLEX_508.msa.trim
+file is Roz_OGFLEX_515.msa.trim
+file is Roz_OGFLEX_516.msa.trim
+file is Roz_OGFLEX_530.msa.trim
+file is Roz_OGFLEX_533.msa.trim
+file is Roz_OGFLEX_535.msa.trim
+file is Roz_OGFLEX_536.msa.trim
+file is Roz_OGFLEX_538.msa.trim
+file is Roz_OGFLEX_540.msa.trim
+file is Roz_OGFLEX_543.msa.trim
+file is Roz_OGFLEX_545.msa.trim
+file is Roz_OGFLEX_546.msa.trim
+file is Roz_OGFLEX_549.msa.trim
+file is Roz_OGFLEX_550.msa.trim
+file is Roz_OGFLEX_554.msa.trim
+file is Roz_OGFLEX_563.msa.trim
+file is Roz_OGFLEX_564.msa.trim
+file is Roz_OGFLEX_574.msa.trim
+file is Roz_OGFLEX_576.msa.trim
+file is Roz_OGFLEX_577.msa.trim
+file is Roz_OGFLEX_582.msa.trim
+file is Roz_OGFLEX_584.msa.trim
+file is Roz_OGFLEX_588.msa.trim
+file is Roz_OGFLEX_594.msa.trim
+file is Roz_OGFLEX_596.msa.trim
+file is Roz_OGFLEX_598.msa.trim
+file is Roz_OGFLEX_601.msa.trim
+file is Roz_OGFLEX_603.msa.trim
+file is Roz_OGFLEX_608.msa.trim
+file is Roz_OGFLEX_613.msa.trim
+file is Roz_OGFLEX_616.msa.trim
+file is Roz_OGFLEX_617.msa.trim
+file is Roz_OGFLEX_619.msa.trim
+file is Roz_OGFLEX_621.msa.trim
+file is Roz_OGFLEX_622.msa.trim
+file is Roz_OGFLEX_623.msa.trim
+file is Roz_OGFLEX_635.msa.trim
+file is Roz_OGFLEX_638.msa.trim
+file is Roz_OGFLEX_643.msa.trim
+file is Roz_OGFLEX_644.msa.trim
+file is Roz_OGFLEX_645.msa.trim
+file is Roz_OGFLEX_646.msa.trim
+file is Roz_OGFLEX_647.msa.trim
+file is Roz_OGFLEX_649.msa.trim
+file is Roz_OGFLEX_660.msa.trim
+file is Roz_OGFLEX_662.msa.trim
+file is Roz_OGFLEX_663.msa.trim
+file is Roz_OGFLEX_666.msa.trim
+file is Roz_OGFLEX_668.msa.trim
+file is Roz_OGFLEX_670.msa.trim
+file is Roz_OGFLEX_673.msa.trim
+file is Roz_OGFLEX_674.msa.trim
+file is Roz_OGFLEX_675.msa.trim
+file is Roz_OGFLEX_676.msa.trim
+
+--------------------- WARNING ---------------------
+MSG: Got a sequence with no letters in it cannot guess alphabet
+---------------------------------------------------
+
+--------------------- WARNING ---------------------
+MSG: Got a sequence with no letters in it cannot guess alphabet
+---------------------------------------------------
+
+--------------------- WARNING ---------------------
+MSG: Got a sequence with no letters in it cannot guess alphabet
+---------------------------------------------------
+
+--------------------- WARNING ---------------------
+MSG: Got a sequence with no letters in it cannot guess alphabet
+---------------------------------------------------
+
+--------------------- WARNING ---------------------
+MSG: Got a sequence with no letters in it cannot guess alphabet
+---------------------------------------------------
+file is Roz_OGFLEX_680.msa.trim
+file is Roz_OGFLEX_682.msa.trim
+file is Roz_OGFLEX_683.msa.trim
+file is Roz_OGFLEX_688.msa.trim
+file is Roz_OGFLEX_691.msa.trim
+file is Roz_OGFLEX_692.msa.trim
+file is Roz_OGFLEX_693.msa.trim
+file is Roz_OGFLEX_694.msa.trim
+file is Roz_OGFLEX_696.msa.trim
+file is Roz_OGFLEX_700.msa.trim
+file is Roz_OGFLEX_702.msa.trim
+file is Roz_OGFLEX_706.msa.trim
+file is Roz_OGFLEX_725.msa.trim
+file is Roz_OGFLEX_730.msa.trim
+file is Roz_OGFLEX_731.msa.trim
+file is Roz_OGFLEX_732.msa.trim
+file is Roz_OGFLEX_734.msa.trim
+file is Roz_OGFLEX_737.msa.trim
+file is Roz_OGFLEX_739.msa.trim
+file is Roz_OGFLEX_744.msa.trim
+file is Roz_OGFLEX_745.msa.trim
+file is Roz_OGFLEX_749.msa.trim
+file is Roz_OGFLEX_750.msa.trim
+file is Roz_OGFLEX_754.msa.trim
+file is Roz_OGFLEX_755.msa.trim
+file is Roz_OGFLEX_756.msa.trim
+file is Roz_OGFLEX_757.msa.trim
+file is Roz_OGFLEX_758.msa.trim
+file is Roz_OGFLEX_763.msa.trim
+file is Roz_OGFLEX_764.msa.trim
+file is Roz_OGFLEX_765.msa.trim
+file is Roz_OGFLEX_767.msa.trim
+file is Roz_OGFLEX_770.msa.trim
+file is Roz_OGFLEX_773.msa.trim
+file is Roz_OGFLEX_775.msa.trim
+file is Roz_OGFLEX_776.msa.trim
+file is Roz_OGFLEX_778.msa.trim
+file is Roz_OGFLEX_781.msa.trim
+file is Roz_OGFLEX_782.msa.trim
+file is Roz_OGFLEX_783.msa.trim
+file is Roz_OGFLEX_785.msa.trim
+file is Roz_OGFLEX_786.msa.trim
+file is Roz_OGFLEX_789.msa.trim
+file is Roz_OGFLEX_792.msa.trim
+file is Roz_OGFLEX_794.msa.trim
+file is Roz_OGFLEX_796.msa.trim
+
+--------------------- WARNING ---------------------
+MSG: Got a sequence with no letters in it cannot guess alphabet
+---------------------------------------------------
+file is Roz_OGFLEX_797.msa.trim
+file is Roz_OGFLEX_798.msa.trim
+file is Roz_OGFLEX_810.msa.trim
+file is Roz_OGFLEX_811.msa.trim
+file is Roz_OGFLEX_815.msa.trim
+file is Roz_OGFLEX_819.msa.trim
+file is Roz_OGFLEX_820.msa.trim
+file is Roz_OGFLEX_829.msa.trim
+
+--------------------- WARNING ---------------------
+MSG: Got a sequence with no letters in it cannot guess alphabet
+---------------------------------------------------
+file is Roz_OGFLEX_836.msa.trim
+file is Roz_OGFLEX_837.msa.trim
+file is Roz_OGFLEX_841.msa.trim
+file is Roz_OGFLEX_845.msa.trim
+file is Roz_OGFLEX_846.msa.trim
+file is Roz_OGFLEX_851.msa.trim
+file is Roz_OGFLEX_858.msa.trim
+file is Roz_OGFLEX_859.msa.trim
+file is Roz_OGFLEX_864.msa.trim
+file is Roz_OGFLEX_867.msa.trim
+file is Roz_OGFLEX_868.msa.trim
+file is Roz_OGFLEX_869.msa.trim
+file is Roz_OGFLEX_872.msa.trim
+file is Roz_OGFLEX_874.msa.trim
+file is Roz_OGFLEX_881.msa.trim
+file is Roz_OGFLEX_882.msa.trim
+file is Roz_OGFLEX_883.msa.trim
+file is Roz_OGFLEX_884.msa.trim
+file is Roz_OGFLEX_895.msa.trim
+file is Roz_OGFLEX_899.msa.trim
+file is Roz_OGFLEX_903.msa.trim
+file is Roz_OGFLEX_908.msa.trim
+file is Roz_OGFLEX_909.msa.trim
+file is Roz_OGFLEX_916.msa.trim
+file is Roz_OGFLEX_922.msa.trim
+file is Roz_OGFLEX_924.msa.trim
+file is Roz_OGFLEX_935.msa.trim
+file is Roz_OGFLEX_946.msa.trim
+file is Roz_OGFLEX_947.msa.trim
+file is Roz_OGFLEX_951.msa.trim
+file is Roz_OGFLEX_954.msa.trim
+file is Roz_OGFLEX_961.msa.trim
+file is Roz_OGFLEX_962.msa.trim
+file is Roz_OGFLEX_964.msa.trim
+file is Roz_OGFLEX_966.msa.trim
+file is Roz_OGFLEX_972.msa.trim
+file is Roz_OGFLEX_983.msa.trim
+file is Roz_OGFLEX_987.msa.trim
+seq Scer length is 57320
+seq Cowc length is 57320
+seq Gloin1 length is 57320
+seq Pfor length is 57320
+seq Synps1 length is 57320
+seq Lichy1 length is 57320
+seq Synfus length is 57320
+seq Marpt1 length is 57320
+seq Coch length is 57320
+seq Zsp length is 57320
+seq Zin length is 57320
+seq Bhet length is 57320
+seq Spombe length is 57320
+seq Spipu1 length is 57320
+seq Coere1 length is 57320
+seq Morel2 length is 57320
+seq Rozal1_1 length is 57320
+seq Synplu length is 57320
+seq SmitM length is 57320
+seq Ganpr1 length is 57320
+seq Artol1 length is 57320
+seq Allma1 length is 57320
+seq Zan length is 57320
+seq Ccin length is 57320
+seq Rhior3 length is 57320
+seq Ustma1 length is 57320
+seq Neucr2 length is 57320
+seq Dmel length is 57320
+seq Linpe1 length is 57320
+seq Phybl2 length is 57320
+seq Catan2 length is 57320
+seq Rhigl length is 57320
+seq Conco1 length is 57320
+seq Hesve2finisherSC length is 57320
+seq SmiC length is 57320
+seq Stylo length is 57320
+seq Basme2finSC length is 57320
+seq Pipcy3_1 length is 57320
+seq DimcrSC1 length is 57320
+seq Thasp1 length is 57320
+seq Conth1 length is 57320
+seq Zrad length is 57320
+seq ATET length is 57320
+seq Umbra1 length is 57320
+seq Rambr1 length is 57320
+seq Mono length is 57320
+Roz_OGFLEX_190 = 1-414;
+Roz_OGFLEX_224 = 415-678;
+Roz_OGFLEX_226 = 679-848;
+Roz_OGFLEX_257 = 849-1001;
+Roz_OGFLEX_261 = 1002-1159;
+Roz_OGFLEX_267 = 1160-1323;
+Roz_OGFLEX_268 = 1324-1504;
+Roz_OGFLEX_269 = 1505-1605;
+Roz_OGFLEX_280 = 1606-1803;
+Roz_OGFLEX_284 = 1804-1949;
+Roz_OGFLEX_292 = 1950-2085;
+Roz_OGFLEX_295 = 2086-2247;
+Roz_OGFLEX_301 = 2248-2398;
+Roz_OGFLEX_305 = 2399-2516;
+Roz_OGFLEX_308 = 2517-2650;
+Roz_OGFLEX_311 = 2651-2733;
+Roz_OGFLEX_322 = 2734-3487;
+Roz_OGFLEX_331 = 3488-3587;
+Roz_OGFLEX_335 = 3588-3840;
+Roz_OGFLEX_357 = 3841-3928;
+Roz_OGFLEX_363 = 3929-4147;
+Roz_OGFLEX_366 = 4148-4272;
+Roz_OGFLEX_376 = 4273-4693;
+Roz_OGFLEX_378 = 4694-4807;
+Roz_OGFLEX_379 = 4808-4931;
+Roz_OGFLEX_380 = 4932-5055;
+Roz_OGFLEX_397 = 5056-5226;
+Roz_OGFLEX_401 = 5227-5488;
+Roz_OGFLEX_405 = 5489-5603;
+Roz_OGFLEX_407 = 5604-5718;
+Roz_OGFLEX_416 = 5719-5890;
+Roz_OGFLEX_425 = 5891-5946;
+Roz_OGFLEX_432 = 5947-6119;
+Roz_OGFLEX_433 = 6120-6312;
+Roz_OGFLEX_437 = 6313-6519;
+Roz_OGFLEX_443 = 6520-6747;
+Roz_OGFLEX_447 = 6748-6900;
+Roz_OGFLEX_458 = 6901-7276;
+Roz_OGFLEX_461 = 7277-7797;
+Roz_OGFLEX_475 = 7798-8086;
+Roz_OGFLEX_481 = 8087-8208;
+Roz_OGFLEX_491 = 8209-8579;
+Roz_OGFLEX_492 = 8580-9297;
+Roz_OGFLEX_496 = 9298-9427;
+Roz_OGFLEX_506 = 9428-9553;
+Roz_OGFLEX_507 = 9554-9649;
+Roz_OGFLEX_508 = 9650-10283;
+Roz_OGFLEX_515 = 10284-10485;
+Roz_OGFLEX_516 = 10486-10681;
+Roz_OGFLEX_530 = 10682-10976;
+Roz_OGFLEX_533 = 10977-11196;
+Roz_OGFLEX_535 = 11197-11294;
+Roz_OGFLEX_536 = 11295-11540;
+Roz_OGFLEX_538 = 11541-11932;
+Roz_OGFLEX_540 = 11933-12305;
+Roz_OGFLEX_543 = 12306-12473;
+Roz_OGFLEX_545 = 12474-12836;
+Roz_OGFLEX_546 = 12837-13139;
+Roz_OGFLEX_549 = 13140-13473;
+Roz_OGFLEX_550 = 13474-14056;
+Roz_OGFLEX_554 = 14057-14582;
+Roz_OGFLEX_563 = 14583-15313;
+Roz_OGFLEX_564 = 15314-15528;
+Roz_OGFLEX_574 = 15529-16093;
+Roz_OGFLEX_576 = 16094-16421;
+Roz_OGFLEX_577 = 16422-16569;
+Roz_OGFLEX_582 = 16570-17434;
+Roz_OGFLEX_584 = 17435-17715;
+Roz_OGFLEX_588 = 17716-18056;
+Roz_OGFLEX_594 = 18057-18704;
+Roz_OGFLEX_596 = 18705-18808;
+Roz_OGFLEX_598 = 18809-19364;
+Roz_OGFLEX_601 = 19365-19866;
+Roz_OGFLEX_603 = 19867-20439;
+Roz_OGFLEX_608 = 20440-20702;
+Roz_OGFLEX_613 = 20703-21292;
+Roz_OGFLEX_616 = 21293-21495;
+Roz_OGFLEX_617 = 21496-21713;
+Roz_OGFLEX_619 = 21714-22026;
+Roz_OGFLEX_621 = 22027-22233;
+Roz_OGFLEX_622 = 22234-22586;
+Roz_OGFLEX_623 = 22587-22786;
+Roz_OGFLEX_635 = 22787-23202;
+Roz_OGFLEX_638 = 23203-23418;
+Roz_OGFLEX_643 = 23419-23874;
+Roz_OGFLEX_644 = 23875-24253;
+Roz_OGFLEX_645 = 24254-24861;
+Roz_OGFLEX_646 = 24862-25013;
+Roz_OGFLEX_647 = 25014-25281;
+Roz_OGFLEX_649 = 25282-25857;
+Roz_OGFLEX_660 = 25858-26026;
+Roz_OGFLEX_662 = 26027-26672;
+Roz_OGFLEX_663 = 26673-26946;
+Roz_OGFLEX_666 = 26947-27542;
+Roz_OGFLEX_668 = 27543-27682;
+Roz_OGFLEX_670 = 27683-28193;
+Roz_OGFLEX_673 = 28194-28704;
+Roz_OGFLEX_674 = 28705-29113;
+Roz_OGFLEX_675 = 29114-29383;
+Roz_OGFLEX_676 = 29384-29491;
+Roz_OGFLEX_680 = 29492-30710;
+Roz_OGFLEX_682 = 30711-31105;
+Roz_OGFLEX_683 = 31106-31361;
+Roz_OGFLEX_688 = 31362-32513;
+Roz_OGFLEX_691 = 32514-33161;
+Roz_OGFLEX_692 = 33162-33451;
+Roz_OGFLEX_693 = 33452-33681;
+Roz_OGFLEX_694 = 33682-33815;
+Roz_OGFLEX_696 = 33816-34386;
+Roz_OGFLEX_700 = 34387-34496;
+Roz_OGFLEX_702 = 34497-34702;
+Roz_OGFLEX_706 = 34703-34892;
+Roz_OGFLEX_725 = 34893-35155;
+Roz_OGFLEX_730 = 35156-35494;
+Roz_OGFLEX_731 = 35495-35899;
+Roz_OGFLEX_732 = 35900-36482;
+Roz_OGFLEX_734 = 36483-36569;
+Roz_OGFLEX_737 = 36570-36814;
+Roz_OGFLEX_739 = 36815-36967;
+Roz_OGFLEX_744 = 36968-37207;
+Roz_OGFLEX_745 = 37208-37562;
+Roz_OGFLEX_749 = 37563-37736;
+Roz_OGFLEX_750 = 37737-37871;
+Roz_OGFLEX_754 = 37872-38028;
+Roz_OGFLEX_755 = 38029-38198;
+Roz_OGFLEX_756 = 38199-38387;
+Roz_OGFLEX_757 = 38388-38529;
+Roz_OGFLEX_758 = 38530-38656;
+Roz_OGFLEX_763 = 38657-38834;
+Roz_OGFLEX_764 = 38835-39028;
+Roz_OGFLEX_765 = 39029-39425;
+Roz_OGFLEX_767 = 39426-39566;
+Roz_OGFLEX_770 = 39567-39811;
+Roz_OGFLEX_773 = 39812-40129;
+Roz_OGFLEX_775 = 40130-40303;
+Roz_OGFLEX_776 = 40304-41096;
+Roz_OGFLEX_778 = 41097-41262;
+Roz_OGFLEX_781 = 41263-42060;
+Roz_OGFLEX_782 = 42061-42207;
+Roz_OGFLEX_783 = 42208-42337;
+Roz_OGFLEX_785 = 42338-42718;
+Roz_OGFLEX_786 = 42719-42952;
+Roz_OGFLEX_789 = 42953-43174;
+Roz_OGFLEX_792 = 43175-43375;
+Roz_OGFLEX_794 = 43376-43781;
+Roz_OGFLEX_796 = 43782-43856;
+Roz_OGFLEX_797 = 43857-44180;
+Roz_OGFLEX_798 = 44181-44752;
+Roz_OGFLEX_810 = 44753-44879;
+Roz_OGFLEX_811 = 44880-45305;
+Roz_OGFLEX_815 = 45306-45385;
+Roz_OGFLEX_819 = 45386-45734;
+Roz_OGFLEX_820 = 45735-46756;
+Roz_OGFLEX_829 = 46757-47128;
+Roz_OGFLEX_836 = 47129-47409;
+Roz_OGFLEX_837 = 47410-47695;
+Roz_OGFLEX_841 = 47696-47800;
+Roz_OGFLEX_845 = 47801-48312;
+Roz_OGFLEX_846 = 48313-48516;
+Roz_OGFLEX_851 = 48517-48992;
+Roz_OGFLEX_858 = 48993-49210;
+Roz_OGFLEX_859 = 49211-49487;
+Roz_OGFLEX_864 = 49488-49760;
+Roz_OGFLEX_867 = 49761-49945;
+Roz_OGFLEX_868 = 49946-50343;
+Roz_OGFLEX_869 = 50344-50457;
+Roz_OGFLEX_872 = 50458-50772;
+Roz_OGFLEX_874 = 50773-50962;
+Roz_OGFLEX_881 = 50963-51492;
+Roz_OGFLEX_882 = 51493-51904;
+Roz_OGFLEX_883 = 51905-51977;
+Roz_OGFLEX_884 = 51978-52185;
+Roz_OGFLEX_895 = 52186-52440;
+Roz_OGFLEX_899 = 52441-52542;
+Roz_OGFLEX_903 = 52543-52755;
+Roz_OGFLEX_908 = 52756-53215;
+Roz_OGFLEX_909 = 53216-53409;
+Roz_OGFLEX_916 = 53410-53687;
+Roz_OGFLEX_922 = 53688-54080;
+Roz_OGFLEX_924 = 54081-54340;
+Roz_OGFLEX_935 = 54341-54452;
+Roz_OGFLEX_946 = 54453-54714;
+Roz_OGFLEX_947 = 54715-55068;
+Roz_OGFLEX_951 = 55069-55181;
+Roz_OGFLEX_954 = 55182-55988;
+Roz_OGFLEX_961 = 55989-56288;
+Roz_OGFLEX_962 = 56289-56505;
+Roz_OGFLEX_964 = 56506-56747;
+Roz_OGFLEX_966 = 56748-56924;
+Roz_OGFLEX_972 = 56925-57004;
+Roz_OGFLEX_983 = 57005-57075;
+Roz_OGFLEX_987 = 57076-57320;
