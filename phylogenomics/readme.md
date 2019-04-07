@@ -5,7 +5,19 @@ Davis WJ, Amses KR, Benny GL, Carter-House D, Chang Y, Grigoriev, Smith ME, Spat
 
 The photographs used for the morphology figure and the figure itself are archived here: .
 
-I have previously written up the pipeline used in this publication [here](https://github.com/Michigan-Mycology/Lab-Code-and-Hacks/tree/master/Genomics/processing_messy_genomic_data) and [here](https://github.com/Michigan-Mycology/Lab-Code-and-Hacks/tree/master/Phylogenomics).
+A general account of how we assembled and binned the genomes can be found [here](https://github.com/Michigan-Mycology/Lab-Code-and-Hacks/tree/master/Genomics/processing_messy_genomic_data). However, we used two additional binning methods and generated a concensus genome from the three methods. This was developed into a semi-automated pipeline called [scgid](https://github.com/amsesk/scgid), pronouced as "squid". 
+
+A general account of the phylogenetic analysis pipeline can be found [here](https://github.com/Michigan-Mycology/Lab-Code-and-Hacks/tree/master/Phylogenomics).
+
+For our paper, the phylogenetic anlysis pipeline was ran twice. The preliminary run was to generate gene trees that were then screened for paralogues and contaminants. These were identified and removed using from the final analysis.
 
 # Table of Contents
 
+## phylogenomics_3
+This folder contains the preliminary genome-scale phylogenetic analysis. We pulled 192 markers from the genomes, assembled gene trees, and screened them for paralogues and contaminants.
+
+## search_paralogs_removed
+This folder contains lists of the paralogous and contaminant loci that were identified in the target genomes and, if possible, the correct orthologue to replace them.
+
+## phylogenomics_final
+This folder contains the final phylogenetic analysis appearing in the publication.
