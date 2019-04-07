@@ -3,7 +3,7 @@ The scripts used here are modifed versions of the scripts provided in the [Spata
 These scripts and data were used in the following publication:
 Davis WJ, Amses KR, Benny GL, Carter-House D, Chang Y, Grigoriev, Smith ME, Spatafora JW, Stajich JE, James TY. 2019. Genome-scale phylogenetics analyses reveals a monophyletic Zoopagales (Zoopagomycota, Fungi). Molecular Evolution and Phylogenetics 113: 152-163. DOI: https://doi.org/10.1016/j.ympev.2019.01.006
 
-The photographs used for the morphology figure and the figure itself are archived here: https://doi.org/10.6084/m9.figshare.c.4462655.
+The photographs used for the morphology figure are archived here: https://doi.org/10.6084/m9.figshare.c.4462655.
 
 A general account of how we assembled and binned the genomes can be found [here](https://github.com/Michigan-Mycology/Lab-Code-and-Hacks/tree/master/Genomics/processing_messy_genomic_data). However, we used two additional binning methods and generated a concensus genome from the three methods. This was developed into a semi-automated pipeline called [scgid](https://github.com/amsesk/scgid), pronouced as "squid". 
 
